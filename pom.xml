@@ -12,11 +12,18 @@
         <exec.mainClass>com.alwaysofflinesoftware.testify.Testify</exec.mainClass>
     </properties>
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/net.java.dev.jna/jna -->
+        <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna</artifactId>
+            <version>5.14.0</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/net.java.dev.jna/jna-platform -->
         <dependency>
             <groupId>net.java.dev.jna</groupId>
             <artifactId>jna-platform</artifactId>
-            <version>4.2.2</version>
+            <version>5.14.0</version>
         </dependency>
 
 
