@@ -1,5 +1,5 @@
 # TestifyRPA [![License](https://img.shields.io/badge/License-GPLv2-green)](#license)
-========
+
 A robotic process automation tool using Java Robot, global keyboard hooks and Swing.
 <dl>
   <b>If you enjoy my work  <a class="gumroad-button" href="https://alwaysoffline.gumroad.com/l/Thanks" data-gumroad-overlay-checkout="true">Send a thank you tip on Gumroad!</a></b>
