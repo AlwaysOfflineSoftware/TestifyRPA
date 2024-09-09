@@ -18,7 +18,7 @@ You can contribute to TestifyRPA by:
 - submit issues if you run into a error or want a feature
 - request to become a Contributor
 
-### Forking XojoEZUnit
+### Forking TestifyRPA
 
 1. Click the Fork button at the top.
 2. Make your changes.
@@ -42,7 +42,7 @@ Released under <a href=https://www.gnu.org/licenses/old-licenses/gpl-2.0.md>GPLv
 ## Release Notes
 
 ### 0.5 (Jan. 26, 2024)
-Initial upload. Been in a private repo forever, starting work on it again, Give it a try!
+Initial upload. Been in a private repo forever, starting work on it again, Give it a try! Currently not maintained.
 
 
 
